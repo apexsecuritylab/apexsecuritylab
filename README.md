@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🛡️ APEX
 
-<!--
-**apexsecuritylab/apexsecuritylab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MJC Computer Security Club  
+> Advanced Penetration & Exploitation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About
+
+APEX는 명지전문대학교 컴퓨터보안공학과 동아리입니다.  
+AI, 보안, 개발 등 다양한 분야를 함께 배우며 성장합니다.  
+
+명지전문대 컴퓨터보안공학과 본과정 학생이라면 누구나 참여할 수 있습니다.
+
+---
+
+## 🧠 Study Fields
+
+<p>
+  <img src="https://img.shields.io/badge/Web_Hacking-black?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+  <img src="https://img.shields.io/badge/System-black?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reversing-black?style=for-the-badge&logo=gnubash&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Crypto-black?style=for-the-badge&logo=letsencrypt&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Pwnable-black?style=for-the-badge&logo=c&logoColor=red"/>
+</p>
+
+---
+
+## 📊 Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ORG_NAME&show_icons=true&theme=dark"/>
+</p>
+
