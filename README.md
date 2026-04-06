@@ -23,12 +23,3 @@ AI, 보안, 개발 등 다양한 분야를 함께 배우며 성장합니다.
   <img src="https://img.shields.io/badge/Crypto-black?style=for-the-badge&logo=letsencrypt&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Pwnable-black?style=for-the-badge&logo=c&logoColor=red"/>
 </p>
-
----
-
-## 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ORG_NAME&show_icons=true&theme=dark"/>
-</p>
-
